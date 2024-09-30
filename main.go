@@ -12,7 +12,8 @@ import (
 )
 
 var (
-	asciiChars = "@B%8WM#*oahkbdpwmZO0QCJYXzcvnxrjft/|()1{}[]-_+~<>i!lI;:,^`'. "
+    asciiChars = " .:-=+*#%@"
+
 	scale_x      = 1.0 // 缩放因子，调整输出的 ASCII 图像大小
     scale_y      = 1.0
 )
